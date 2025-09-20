@@ -40,3 +40,13 @@ This will start the Vite development server, and you can view the application at
 - `src/pages`: Contains the main pages of the application like `Home`, `About`, and `Contact`.
 - `src/App.jsx`: The main application component where routing is handled.
 - `src/main.jsx`: The entry point of the application.
+
+
+## For Collaborators
+- `git clone https://github.com/OogaryoO/nest_long_term_care.git`: clone the repository
+- `git checkout main`
+- `git pull origin main`
+- `git checkout -b <your_feature_name>`: Create a new branch for the feature
+- `git add .`: Add the files they have changed
+- `git commit -m "your commit message"`
+- `git push origin <your_feature_name>`
