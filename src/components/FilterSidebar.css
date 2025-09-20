@@ -1,0 +1,29 @@
+.filter-sidebar {
+  width: 200px;
+  padding: 16px;
+  border-right: 1px solid #ccc;
+}
+
+.filter-sidebar h4 {
+  margin-top: 0;
+}
+
+.filter-sidebar ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.filter-sidebar li {
+  padding: 8px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.filter-sidebar li:hover {
+  background-color: #f0f0f0;
+}
+
+.filter-sidebar li.active {
+  background-color: #e0e0e0;
+  font-weight: bold;
+}

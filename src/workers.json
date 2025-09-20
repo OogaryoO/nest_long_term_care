@@ -1,0 +1,88 @@
+[
+  {
+    "id": 1,
+    "name": "Maria Santos",
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1661753508264-777a9e3c0deb?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "rating": 4.8,
+    "reviewCount": 24,
+    "description": "Compassionate caregiver from Philippines with 8 years of experience in elderly care.",
+    "skills": ["Elderly Care", "First Aid", "Meal Prep"],
+    "comments": [
+      {
+        "id": 1,
+        "author": "Mary S.",
+        "rating": 5,
+        "text": "Maria provided excellent care for my mother. Very professional and caring.",
+        "date": "2024-08-15"
+      },
+      {
+        "id": 2,
+        "author": "John D.",
+        "rating": 4,
+        "text": "Great communication and reliable. Highly recommend!",
+        "date": "2024-07-20"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Nguyen Thanh",
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1747816997196-121326fa3a58?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "rating": 4.5,
+    "reviewCount": 18,
+    "description": "Specializes in post-operative care and physical therapy support. Originally from Vietnam.",
+    "skills": ["Post-Operative Care", "Physical Therapy", "Medication Management"],
+    "comments": [
+      {
+        "id": 3,
+        "author": "Sarah L.",
+        "rating": 5,
+        "text": "Thanh helped me recover after my surgery. Very knowledgeable and patient.",
+        "date": "2024-08-10"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Siti Rahman",
+    "imageUrl": "https://images.unsplash.com/photo-1717413061442-1179e36c2257?q=80&w=686&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "rating": 4.9,
+    "reviewCount": 31,
+    "description": "Friendly and reliable caregiver from Malaysia, with a focus on creating a positive environment.",
+    "skills": ["Companion Care", "Meal Prep", "Light Housekeeping"],
+    "comments": [
+      {
+        "id": 4,
+        "author": "Emma T.",
+        "rating": 5,
+        "text": "Siti is amazing! My grandmother loves spending time with her.",
+        "date": "2024-08-25"
+      },
+      {
+        "id": 5,
+        "author": "Michael R.",
+        "rating": 5,
+        "text": "Professional, friendly, and goes above and beyond. Couldn't be happier!",
+        "date": "2024-08-18"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Wati Sari",
+    "imageUrl": "https://images.unsplash.com/photo-1615524376009-e7f29add6ac5?q=80&w=765&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "rating": 4.7,
+    "reviewCount": 22,
+    "description": "Experienced caregiver from Indonesia, specializing in dementia and Alzheimer's care.",
+    "skills": ["Dementia Care", "First Aid", "Companion Care"],
+    "comments": [
+      {
+        "id": 6,
+        "author": "Robert K.",
+        "rating": 5,
+        "text": "Wati's expertise with dementia care is exceptional. Very understanding and patient.",
+        "date": "2024-08-12"
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+.info-card {
+  display: flex;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 16px 0;
+  max-width: 500px;
+}
+
+.info-card-photo {
+  margin-right: 16px;
+}
+
+.info-card-photo img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.info-card-details {
+  display: flex;
+  flex-direction: column;
+}
+
+.info-card-rating {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.info-card-rating span {
+  margin-right: 4px;
+}
+
+.info-card-description {
+  margin: 0;
+}
+
+.worker-info-container {
+  display: flex;
+  /* 水平置中 */
+  justify-content: center;    
+  /* 垂直置中 */
+  align-content: center;      
+  flex-wrap: wrap;
+}

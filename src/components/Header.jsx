@@ -1,7 +1,8 @@
 import React from 'react';
+import Button from './Button';
 import './Header.css';
 
-const Header = () => {
+const Header = ({ onLogout }) => {
   return (
     <header className="header">
       <h1>Information Hub</h1>
@@ -12,6 +13,17 @@ const Header = () => {
           <li><a href="/contact">Contact</a></li>
         </ul>
       </nav>
+      {onLogout && (
+        <div className="header-actions">
+          <Button 
+            onClick={onLogout}
+            variant="outline"
+            className="logout-button"
+          >
+            Logout
+          </Button>
+        </div>
+      )}
     </header>
   );
 };
